@@ -2,7 +2,7 @@
 MA-sLDAc -- Multi-Annotator Supervised LDA for classification
 ==============================================
 
-`MA-sLDAc` is a C++ implementation of the *supervised topic models* with labels provided by *multiple annotators* with different levels of expertise, as proposed in:
+`MA-sLDAc` is a C++ implementation of the supervised topic models with labels provided by multiple annotators with different levels of expertise, as proposed in:
 
 * Rodrigues, F., Lourenço, M, Ribeiro, B, Pereira, F. Learning supervised topic models from crowds. The Third AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2015.
 
@@ -23,6 +23,7 @@ Compiling
 ------------
 
 Type "make" in a shell. 
+
 Please note that this code requires the Gnu Scientific Library, http://www.gnu.org/software/gsl/
 
 Estimation
