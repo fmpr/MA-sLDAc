@@ -1,0 +1,11 @@
+var max iter 100
+var convergence 1e-4
+em max iter 200
+em convergence 1e-5
+L2 penalty 0.1
+labels file ../20newsgroups/labels_train.txt
+pi estimate
+pi file ../20newsgroups/conf_mat.txt
+lambda laplace smoother 0.0001
+svi delay 1
+svi forgetting rate 0.6
