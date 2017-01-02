@@ -18,7 +18,7 @@ For simplicity reasons, I recommend first-time users to start with "MA-sLDAc (ml
 
 A version of this model for regression tasks is available `here <https://github.com/fmpr/MA-sLDAr>`_.
 
-Sample multiple-annotator data using the 20newsgroups dataset is provided `here <http://amilab.dei.uc.pt/fmpr/20newsgroups.tar.gz>`_. More datasets are available `here <http://amilab.dei.uc.pt/fmpr/software/ma-sldac-multi-annotator-supervised-lda-for-classification/>`_. 
+Sample multiple-annotator data using the 20newsgroups dataset is provided `here <http://www.fprodrigues.com/20newsgroups.tar.gz>`_. More datasets are available `here <http://www.fprodrigues.com/software/ma-sldac-multi-annotator-supervised-lda-for-classification/>`_. 
 
 `MA-sLDAc` is open source software released under the `GNU LGPL license <http://www.gnu.org/licenses/lgpl.html>`_.
 Copyright (c) 2015-now Filipe Rodrigues
@@ -35,7 +35,7 @@ Estimation
 
 Usage:: 
 
-    maslda est [data] [answers] [settings] [alpha] [k] [random/seeded/model_path] [seed]
+    ./maslda est [data] [answers] [settings] [alpha] [k] [random/seeded/model_path] [seed]
 
 Data format:
 
