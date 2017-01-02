@@ -51,7 +51,7 @@ Inference
 
 Usage:: 
 
-    maslda inf [data] [labels] [settings] [model] [directory]
+    ./maslda inf [data] [labels] [settings] [model] [directory]
 
 Data format: 
 
