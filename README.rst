@@ -16,6 +16,8 @@ The code is based on the supervised LDA (sLDA) implementation by Chong Wang and 
 
 For simplicity reasons, I recommend first-time users to start with "MA-sLDAc (mle)", since this version has less parameters that need to be specified.
 
+A version of this model for regression tasks is available `here <https://github.com/fmpr/MA-sLDAr>`_.
+
 Sample multiple-annotator data using the 20newsgroups dataset is provided `here <http://amilab.dei.uc.pt/fmpr/20newsgroups.tar.gz>`_. More datasets are available `here <http://amilab.dei.uc.pt/fmpr/software/ma-sldac-multi-annotator-supervised-lda-for-classification/>`_. 
 
 `MA-sLDAc` is open source software released under the `GNU LGPL license <http://www.gnu.org/licenses/lgpl.html>`_.
