@@ -4,7 +4,9 @@ MA-sLDAc -- Multi-Annotator Supervised LDA for classification
 
 `MA-sLDAc` is a C++ implementation of the supervised topic models with labels provided by multiple annotators with different levels of expertise, as proposed in:
 
-* `Rodrigues, F., Lourenço, M, Ribeiro, B, Pereira, F. Learning supervised topic models from crowds. The Third AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2015 <http://amilab.dei.uc.pt/fmpr/publications/learning-supervised-topic-models-from-crowds/>`_.
+* `Rodrigues, F., Lourenço, M, Ribeiro, B, Pereira, F. Learning Supervised Topic Models for Classification and Regression from Crowds. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017 <http://www.fprodrigues.com/publications/learning-supervised-topic-models-for-classification-and-regression-from-crowds/>`_.
+
+* `Rodrigues, F., Lourenço, M, Ribeiro, B, Pereira, F. Learning supervised topic models from crowds. The Third AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2015 <http://www.fprodrigues.com/publications/learning-supervised-topic-models-from-crowds/>`_.
 
 The code is based on the supervised LDA (sLDA) implementation by Chong Wang and David Blei (http://www.cs.cmu.edu/~chongw/slda/). Three different variants of the proposed model are provided:
 
