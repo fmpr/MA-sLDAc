@@ -35,7 +35,7 @@ Estimation
 
 Usage:: 
 
-    ./maslda est [data] [answers] [settings] [alpha] [k] [random/seeded/model_path] [seed]
+    ./maslda est [data] [answers] [settings] [alpha] [k] [random/seeded/model_path] [seed] [directory]
 
 Data format:
 
